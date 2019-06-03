@@ -1,0 +1,10 @@
+[package]
+name = "cio"
+version = "0.1.0"
+authors = ["Drake Tetreault <ekardnt@ekardnt.com>"]
+edition = "2018"
+description = "Low level completion-based IO (IOCP, io_uring, etc)"
+license = "CC0-1.0"
+repository = "https://github.com/EkardNT/cio"
+
+[dependencies]
